@@ -133,6 +133,10 @@ GET /destinations?place=Rome&radius=50
 │   │   ├── DestinationController.php
 │   ├── Services/
 │   │   ├── DestinationService.php
+│   ├── Database/
+│   │   ├── Database.php
+│   ├── Models/
+│   │   ├── Destination.php
 ├── database/
 │   ├── destinations.sqlite
 ├── public/
